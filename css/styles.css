@@ -1,0 +1,11 @@
+body {background: linear-gradient(to top, #E3F2D9 0%, #E3F2D9 58%, #C4E4AF 58%, #C4E4AF 100% );}
+        hr{border-style: dotted none none none; border-color: grey; border-width: 5px; width: 4%;}
+        a:link{color:rgb(54, 95, 53)}
+        a:visited{color:#213C0E}
+        a:hover{color:#53b80a}
+        h1{color: #213C0E;}
+        h2{color: #213C0E;}
+        p{color: #33551B}
+        li{color: #33551B}
+        td{color: #33551B}
+        td.one{color: #99e661;}
